@@ -48,3 +48,21 @@
 ```
 
 ### 3. 常用命令
+
+``` bash
+  /model      choose what model and reasoning effort to use
+  /approvals  choose what Codex can do without approval
+  /review     review my current changes and find issues
+  /new        start a new chat during a conversation
+  /init       create an AGENTS.md file with instructions for Codex
+  /compact    summarize conversation to prevent hitting the context limit
+  /undo       ask Codex to undo a turn
+  /diff       show git diff (including untracked files)
+```
+  
+### 4. 安装mcp
+
+```
+Context7 MCP : https://github.com/upstash/context7
+Excel MCP: https://github.com/haris-musa/excel-mcp-server
+```
